@@ -5,12 +5,12 @@ of the University of Amsterdam.
 
 # Requirements
 
-To run the practicals, we recommend to install the [Anaconda Distribution](https://www.anaconda.com/download/). Be sure to select the Python 3.7 version. Once you have Anaconda installed, you need to create an environment as specified by the `nmrc2018.yml` configuration file. 
+To run the practicals, we recommend to install the [Anaconda Distribution](https://www.anaconda.com/download/). Be sure to select the Python 3.7 version. Once you have Anaconda installed, you need to create an environment as specified by the `nmrc2022.yml` configuration file. 
 
 - Open Anaconda
 - Go to the 'Environments' section
 - Click 'Import'
-- Select the path to the `nmrc2020.yml` and choose a name for you environment (default will be `nmrc2020`).
+- Select the path to the `nmrc2022.yml` and choose a name for you environment (default will be `nmrc2022`).
 
 Once your environment has been created:
 - Click on the environment name (a green triangle should appear)
