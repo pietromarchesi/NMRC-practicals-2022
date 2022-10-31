@@ -5,7 +5,7 @@ of the University of Amsterdam.
 
 # Requirements
 
-To run the practicals, we recommend to install the [Anaconda Distribution](https://www.anaconda.com/download/). Be sure to select the Python 3.7 version. Once you have Anaconda installed, you need to create an environment as specified by the `nmrc2022.yml` configuration file. 
+To run the practicals, we recommend to install the [Anaconda Distribution](https://www.anaconda.com/download/). You'll probably find the 3.9 Python version, but anything after 3.7 will surely work. Once you have Anaconda installed, you need to create an environment as specified by the `nmrc2022.yml` configuration file. 
 
 - Open Anaconda
 - Go to the 'Environments' section
