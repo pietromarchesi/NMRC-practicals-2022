@@ -1,4 +1,4 @@
-name: nmrc2020
+name: nmrc2022
 channels:
   - conda-forge
   - defaults
