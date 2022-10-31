@@ -78,5 +78,5 @@ dependencies:
     - tensorflow==1.12.0
     - termcolor==1.1.0
     - werkzeug==0.14.1
-prefix: /Users/pietro/anaconda3/envs/nmrc2018
+prefix: /Users/pietro/anaconda3/envs/nmrc2022
 
